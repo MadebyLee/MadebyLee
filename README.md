@@ -44,7 +44,7 @@
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@ayroids-181717?style=flat-square&logo=X&logoColor=white)](https://x.com/PostbyLee)
+[![Twitter](https://img.shields.io/badge/-@postbylee-181717?style=flat-square&logo=X&logoColor=white)](https://x.com/PostbyLee)
 [![Telegram](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/texttolee)
-[![GitHub](https://img.shields.io/badge/-@ayroids-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MadebyLee)
+[![GitHub](https://img.shields.io/badge/-@madebylee-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MadebyLee)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jeremlee.global@gmail.com)
