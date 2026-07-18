@@ -1,8 +1,8 @@
 # Hi, I'm Lee 👋
 
-**SOC Analyst** building innovative secure products with a focus on Ai, full-stack development, software, and system design.
+**`Innovator (Developer/Designer/Broadcaster)`**
 
-**Innovator (Developer/Designer/Broadcaster)**
+**SOC Analyst** building innovative secure products with a focus on Ai, full-stack development, software, and system design.
 
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
