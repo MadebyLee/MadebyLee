@@ -22,10 +22,6 @@
 - 🚕
 - 🗃️ 
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/MadebyLee)
-
 ## Tech Stack
 
 **Languages & Frameworks**
