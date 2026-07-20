@@ -17,7 +17,7 @@
 
 > Currently converting web APIs from in-memory to PostgreSQL, learning Go, and building tools for entrepreneurs. Full-stack developer with a passion for system design and DevOps.
 
-## Current
+##
 
 ## Tech Stack
 
