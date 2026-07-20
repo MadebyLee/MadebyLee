@@ -20,7 +20,6 @@
 ## Current Projects
 
 - 🎯
-- 🏗️
 ## Tech Stack
 
 **Languages & Frameworks**
