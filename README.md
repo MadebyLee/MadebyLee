@@ -21,8 +21,6 @@
 
 - 🎯
 - 🏗️
-- 🚕
-
 ## Tech Stack
 
 **Languages & Frameworks**
