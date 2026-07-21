@@ -19,7 +19,7 @@
 
 ## Tech Stack
 
-**Languages & Frameworks**
+**Languages & Frameworks **
 - **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3
 - **Backend:** Python, C, C++, Node.js, Express, Go
 
