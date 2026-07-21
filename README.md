@@ -21,7 +21,7 @@
 
 **Languages & Frameworks**
 - **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3
-- **Backend:** Node.js, Express, Go, Python
+- **Backend:** Python, Node.js, Express, Go
 
 **Databases & ORMs**
 - PostgreSQL, MongoDB, MySQL
