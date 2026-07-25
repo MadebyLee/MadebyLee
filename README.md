@@ -2,7 +2,7 @@
 
 **`Innovator (Developer/Designer/Broadcaster)`**
 
-**SOC Analyst** building innovative secure products with a focus on Ai, full-stack development, software,
+**SOC Analyst** building innovative secure products with a focus on Ai, full-stack development, sof
 
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
