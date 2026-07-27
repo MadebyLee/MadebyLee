@@ -42,21 +42,19 @@
 [![GitHub](https://img.shields.io/badge/-@madebylee-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MadebyLee)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:)
 
+```text
+01010010 01100001 01101010
 
-<h1 align="center">Hi 👋, I'm Raj</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;AI+Enthusiast;Cybersecurity+Learner;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-# 🚀 About Me
-
+┌─────────────────────────────────────┐
+│        SYSTEM INITIALIZED           │
+├─────────────────────────────────────┤
+│ USER      : RAJ                     │
+│ ROLE      : Developer               │
+│ STATUS    : ONLINE                  │
+│ LOCATION  : INDIA                   │
+│ MISSION   : BUILD THE FUTURE        │
+└─────────────────────────────────────┘
+```
 - 🌱 Currently learning **AI, Cybersecurity & Cloud**
 - 💻 Passionate about building useful software
 - 📚 Always learning something new
