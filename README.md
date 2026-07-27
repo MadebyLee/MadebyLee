@@ -51,10 +51,22 @@
 │ USER      : RAJ                     │
 │ ROLE      : Developer               │
 │ STATUS    : ONLINE                  │
-│ LOCATION  : SWITZERLAND                   │
+│ LOCATION  : SWITZERLAND             │
 │ MISSION   : BUILD THE FUTURE        │
 └─────────────────────────────────────┘
 ```
+```text
+╭────────────────────────────────────────────╮
+│ █ SYSTEM STATUS                            │
+├────────────────────────────────────────────┤
+│ CPU      ███████████░░ 72%                 │
+│ RAM      ████████░░░░ 58%                  │
+│ CODE     ████████████ 100%                 │
+│ COFFEE   ███████████░ 90%                  │
+│ BUGS     ░░░░░░░░░░░░ 0%*                  │
+╰────────────────────────────────────────────╯
+```
+
 - 🌱 Currently learning **AI, Cybersecurity & Cloud**
 - 💻 Passionate about building useful software
 - 📚 Always learning something new
