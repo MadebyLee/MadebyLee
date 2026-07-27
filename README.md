@@ -82,32 +82,16 @@
 - ⚡ Fun Fact: Coffee + Code = Happiness ☕
 
 ---
-
-# 🌐 Connect With Me
-
-<p align="center">
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://twitter.com/YOUR_X">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
-</a>
-</p>
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,react,nextjs,nodejs,express,tailwind,mongodb,mysql,postgres,docker,kubernetes,git,github,linux,bash,vscode,aws,azure,tensorflow,pytorch,figma&perline=8"/>
-
-</p>
+```text
+╔══════════════════════════════════════════════╗
+║      WELCOME TO RAJ'S GITHUB PROFILE         ║
+╠══════════════════════════════════════════════╣
+║ STATUS     :: AVAILABLE                      ║
+║ ROLE       :: SOC Analyst                    ║
+║ FOCUS      :: AI • SECURITY                  ║
+║ TERMINAL   :: READY                          ║
+╚══════════════════════════════════════════════╝
+```
 
 ---
 
