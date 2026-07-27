@@ -42,6 +42,13 @@
 [![GitHub](https://img.shields.io/badge/-@madebylee-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MadebyLee)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:)
 
+██╗     ███████╗███████╗
+██║     ██╔════╝██╔════╝
+██║     █████╗  █████╗
+██║     ██╔══╝  ██╔══╝
+███████╗███████╗███████╗
+╚══════╝╚══════╝╚══════╝ 
+
 ```text
 01010010 01100001 01101010
 
