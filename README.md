@@ -51,7 +51,7 @@
 │ USER      : RAJ                     │
 │ ROLE      : Developer               │
 │ STATUS    : ONLINE                  │
-│ LOCATION  : INDIA                   │
+│ LOCATION  : SWITZERLAND                   │
 │ MISSION   : BUILD THE FUTURE        │
 └─────────────────────────────────────┘
 ```
