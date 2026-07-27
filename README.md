@@ -42,38 +42,6 @@
 [![GitHub](https://img.shields.io/badge/-@madebylee-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MadebyLee)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:)
 
-```text
-██╗     ███████╗███████╗
-██║     ██╔════╝██╔════╝
-██║     █████╗  █████╗
-██║     ██╔══╝  ██╔══╝
-███████╗███████╗███████╗
-╚══════╝╚══════╝╚══════╝ 
-```
-```text
-01010010 01100001 01101010
-
-┌─────────────────────────────────────┐
-│        SYSTEM INITIALIZED           │
-├─────────────────────────────────────┤
-│ USER      : RAJ                     │
-│ ROLE      : Developer               │
-│ STATUS    : ONLINE                  │
-│ LOCATION  : SWITZERLAND             │
-│ MISSION   : BUILD THE FUTURE        │
-└─────────────────────────────────────┘
-```
-```text
-╭────────────────────────────────────────────╮
-│ █ SYSTEM STATUS                            │
-├────────────────────────────────────────────┤
-│ CPU      ███████████░░ 72%                 │
-│ RAM      ████████░░░░ 58%                  │
-│ CODE     ████████████ 100%                 │
-│ COFFEE   ███████████░ 90%                  │
-│ BUGS     ░░░░░░░░░░░░ 0%*                  │
-╰────────────────────────────────────────────╯
-```
 
 - 🌱 Currently learning **AI, Cybersecurity & Cloud**
 - 💻 Passionate about building useful software
@@ -81,14 +49,4 @@
 - 🎯 Goal: Build impactful products
 - ⚡ Fun Fact: Coffee + Code = Happiness ☕
 
----
-```text
-╔══════════════════════════════════════════════╗
-║      WELCOME TO RAJ'S GITHUB PROFILE         ║
-╠══════════════════════════════════════════════╣
-║ STATUS     :: AVAILABLE                      ║
-║ ROLE       :: SOC Analyst                    ║
-║ FOCUS      :: AI • SECURITY                  ║
-║ TERMINAL   :: READY                          ║
-╚══════════════════════════════════════════════╝
-```
+
