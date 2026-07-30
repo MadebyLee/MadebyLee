@@ -16,7 +16,6 @@
 
 > Currently converting web APIs fro
 ## Tech Stack
-## yhg
 #giuu
 **Languages & Frameworks **
 - **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3
