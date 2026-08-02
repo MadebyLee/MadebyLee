@@ -47,6 +47,6 @@
 - 📚 Always learning something new
 - 🎯 Goal: Build impactful products
 - ⚡ Fun Fact: Coffee + Code = Happiness ☕
-- ⚡ Fun Fact: Coffee + Code = Happin
+- ⚡ Fun Fact: Coffee + Code =
 
 
