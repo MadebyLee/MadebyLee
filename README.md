@@ -14,7 +14,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
-> Currently converting web APIs fromgyggiguigig
+> Currently converting web APIs fromgyggiguig
 ## Tech Stack
 **Languages & Frameworks **
 - **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3
