@@ -19,7 +19,7 @@
 **Languages & Frameworks **
 - **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3
 - **Backend:** Python, C, C++, Node.js
-fjgiih hkhojo jojookp
+fjgiih hkhojo jojo
 **Databases & ORMs**
 - PostgreSQL, MongoDB, MySQL
 
