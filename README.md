@@ -18,7 +18,7 @@
 > Currently converting web APIs from
 ## Tech Stack
 **Languages & Frameworks **
-- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3
+- **Frontend:** Python, R, C, C++, Rust, HTML5, CSS, Javascript,         React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3
 - **Backend:** Python, C, C++, Node.js
 
 **Databases & ORMs**
