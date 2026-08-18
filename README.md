@@ -1,7 +1,7 @@
 # Hi, I'm Lee 👋
 
 **`Innovator (Developer/Designer/Broadcaster)`**
-the stem of the codere dgh ud y d iohio oh
+the stem of the codere dgh ud y d iohi
 **SOC Analyst** building everything the world want
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
