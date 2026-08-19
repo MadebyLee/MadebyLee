@@ -36,7 +36,7 @@
 - Git, Linux/Bash, Figma,
 
 ## Connect
-gou yuyyuigoyuig iuguigpuiog yuiguigiu guigiughi uuighuiohu guuioh oihu
+gou yuyyuigoyuig iuguigpuiog yuiguigiu guigiughi uuighuiohu guuioh o
 [![Twitter](https://img.shields.io/badge/-@postbylee-181717?style=flat-square&logo=X&logoColor=white)](https://x.com/PostbyLee)
 [![Telegram](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/texttolee)
 [![GitHub](https://img.shields.io/badge/-@madebylee-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MadebyLee)
