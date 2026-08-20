@@ -42,7 +42,7 @@
 [![GitHub](https://img.shields.io/badge/-@madebylee-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MadebyLee)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:)
 
-the u gdiuw oddiowdwuiodwdowdwoidwhdwio ww wowhdwiohwiow wohw wohwowo ohdw wo
+the u gdiuw oddiowdwuiodwdowdwoidwhdwio ww wowhdwiohwiow wohw wohwowo oh
 - 🌱 Currently learning **AI, Cybersecurity & Cloud**
 - 💻 Passionate about building useful software
 - 📚 Always learning something new
