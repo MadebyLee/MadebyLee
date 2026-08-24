@@ -20,7 +20,7 @@
 - **Frontend:** Python, R, Rust, Go, HTML5, CSS, CSS3, Javascript, Typescript, SQL
 - **Backend:** Python, C, C++, Node.js
 - **Frameworks:** Svelte, Astro, Next.js, Tailwind CSS
-rtyi uih 
+rtyi 
 **Databases & ORMs**
 - PostgreSQL, MongoDB, MySQL
 
