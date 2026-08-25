@@ -1,7 +1,7 @@
 # Hi, I'm Lee 👋
 
 **`Innovator (Developer/Designer/Broadcaster)`**
-tfiy uyugyufgyugyg  guigouigi iiugiu uguigu
+tfiy uyugyufgyugyg  guigouigi iiugiu
 **SOC Analyst** building everything the world want
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
