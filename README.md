@@ -4,7 +4,7 @@
 
 **SOC Analyst** building everything the world want
 
-gshsbs jjdjd jdndj jdjdj dndjdjyieei eueuje dnd. xn djdjdndnfn ndkfjcmg ndndnf
+gshsbs jjdjd jdndj jdjdj dndjdjyieei eueuje dnd. xn djdjdndnfn ndkfjcmg
 
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
