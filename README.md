@@ -3,7 +3,7 @@
 **`Innovator (Developer/Designer/Broadcaster)`**
 
 **SOC Analyst** building everything the world want
-
+thdncjc thenc xc,.mcn nksfnfk skfnsfknf gmnkgnd gekmngmg ghlemomr ketgnkrgh lmntlemlr lrymrml  y4lmrylry rylmrylry lytmry;l,l hnut
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
