@@ -2,7 +2,7 @@
 
 **`Innovator (Developer/Designer/Broadcaster)`**
 
-hdjdjf kfkkdmf fjfkfkf bdjdjf ndjdjd ejeir
+hdjdjf kfkkdmf fjfkfkf bdjdjf ndjd
 
 **SOC Analyst** building everything the world want
 
