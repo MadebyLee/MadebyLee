@@ -3,7 +3,7 @@
 **`Innovator (Developer/Designer/Broadcaster)`**
 
 
-ghshs dndjnd jdkdkd jddkdkd apple refernce ima
+ghshs dndjnd jdkdkd jddkdkd apple refernc
 
 **SOC Analyst** building everything the world want
 
