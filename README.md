@@ -2,6 +2,9 @@
 
 **`Innovator (Developer/Designer/Broadcaster)`**
 
+
+ghshs dndjnd jdkdkd jddkdkd apple refernce image pro controls in iphones 
+
 **SOC Analyst** building everything the world want
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
