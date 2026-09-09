@@ -3,7 +3,7 @@
 **`Innovator (Developer/Designer/Broadcaster)`**
 
 
-ghshs dndjnd jdkdkd jddkdkd apple refernce image pro controls in
+ghshs dndjnd jdkdkd jddkdkd apple refernce image pro
 
 **SOC Analyst** building everything the world want
 
