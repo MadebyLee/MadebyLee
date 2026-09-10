@@ -4,6 +4,8 @@
 
 **SOC Analyst** building everything the world want
 
+twuws jsjdnd sjskdkd skskdkdk snnxnccn jsjddjdj djdjdnd djdjdjd jdjddjd rir8rir djdjdn dhdhdd
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
