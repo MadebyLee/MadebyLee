@@ -4,7 +4,7 @@
 
 **SOC Analyst** building everything the world want
 
-fhikkk figivibob fufivigo oyogo giviv hcjcjv dheur jdfjjf jvkviv kvkv jvkvivdf 
+fhikkk figivibob fufivigo oyogo giviv hcjcjv dheur jdfjjf jvkviv kvkv
 
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
