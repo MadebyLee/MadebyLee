@@ -1,8 +1,5 @@
 # Hi, I'm Lee 👋
 
-hshsshsn 
-
-
 **`Innovator (Developer/Designer/Broadcaster)`**
 
 **SOC Analyst** building everything the world want
