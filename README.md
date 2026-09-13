@@ -1,6 +1,6 @@
 # Hi, I'm Lee 👋
 
-hshsshsn sbjssndn snsndnd sjajsj znznxn wiwis xnxnxxn
+hshsshsn sbjssndn snsndnd sjajsj znznxn wiwi
 
 
 **`Innovator (Developer/Designer/Broadcaster)`**
