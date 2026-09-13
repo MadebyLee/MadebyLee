@@ -1,6 +1,6 @@
 # Hi, I'm Lee 👋
 
-hshsshsn sbjssndn snsndnd sjajsj znznxn 
+hshsshsn sbjssndn snsndnd sjajsj 
 
 
 **`Innovator (Developer/Designer/Broadcaster)`**
