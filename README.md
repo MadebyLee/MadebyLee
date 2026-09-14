@@ -2,7 +2,7 @@
 
 **`Innovator (Developer/Designer/Broadcaster)`**
 
-fhfjfkflf fkfkflf kgkglg qoqoow eueuirir fkkkkf ffllllf 
+fhfjfkflf fkfkflf kgkglg qoqoow eueuirir fkkkkf 
 **SOC Analyst** building everything the world want
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
